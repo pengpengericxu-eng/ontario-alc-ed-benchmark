@@ -6,7 +6,7 @@ The full write-up is in [`docs/High_ALC_Short_ED_Waits_Report.pdf`](docs/High_AL
 
 ## The question
 
-ALC patients are medically ready to leave hospital but are waiting for long-term care, rehab or home care. While they wait, they hold an inpatient bed, so newly admitted patients wait in the ED instead. The project started with one question:
+ALC patients are medically ready to leave hospital but are waiting for long-term care, rehab or home care. While they wait, they hold an inpatient bed, so newly admitted patients wait in the ED instead. The project starts with one question:
 
 > Which large Ontario hospitals carry a heavy ALC load but still keep ED time for admitted patients short, and what are they doing differently?
 
@@ -76,12 +76,13 @@ CIHI materials may be used and reproduced for education and non-commercial resea
 
 ## Limitations
 
-- **The ED measure isn't the one planned.** The ideal measure, the wait for an inpatient bed, isn't published by hospital. Total ED time also includes the wait before the decision to admit.
-- **Yearly data.** One number a year hides winter surges, and ALC moves only about 2 points within a hospital, which leaves Part B little variation to work with.
-- **How ALC is recorded.** ALC is a yearly share of patient days, and hospitals may designate ALC patients differently.
-- **Corporations, not sites.** Multi-site corporations report as one hospital.
-- **Input gaps.** Bed counts are from 2024–25 only, and frailty isn't yet published for 2025–26.
-- **Associations, not causes.** A hospital's gap from expected includes anything the model doesn't measure, so the standouts are leads, not proof of better management.
+The biggest limitation is the outcome measure. What I really wanted was the wait for an inpatient bed, since that's where ALC should show up most directly, but CIHI doesn't publish it by hospital. Instead, I used total ED time for admitted patients, which also counts the time before the decision to admit, so it mixes ED crowding with bed shortages.
+
+Furthermore, the data is yearly. One number per year can hide winter surges, and a hospital's ALC share only moves about 2 points over the four years, so Part B doesn't have much variation to work with. ALC itself is a yearly share of patient days rather than a count of blocked beds on a busy day, and hospitals don't all designate ALC patients the same way.
+
+A few smaller gaps: multi-site corporations report as a single hospital, bed counts are only from 2024–25, and frailty isn't published for 2025–26 yet.
+
+Finally, these are associations, not causes. A hospital's gap from its expected ED time picks up anything the model doesn't measure, like staffing or catchment, so the standouts are worth looking into rather than proof that they're better managed.
 
 ## Author
 
