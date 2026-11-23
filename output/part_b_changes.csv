@@ -1,0 +1,47 @@
+hospital,key,region,ed_first,ed_last,alc_first,alc_last,ed_change,alc_change,status,part_a_z,part_a_rank
+Bluewater Health,bluewater health,West Region,24.7,19.9,15.4,10.7,-4.8,-4.7,,-0.88,8
+Brant Community Healthcare System,brant community healthcare system,West Region,45.3,32.2,18.3,15.6,-13.1,-2.7,,0.89,38
+Brightshores Health System,brightshores health system,West Region,45,37.1,22.7,21.3,-7.9,-1.4,,0.62,33
+Cambridge Memorial Hospital Corporation,cambridge memorial hospital corporation,West Region,49.8,55.6,25.6,15.9,5.8,-9.7,Decliner,1.8,44
+Chatham-Kent Health Alliance,chatham-kent health alliance,West Region,25.8,26,9.8,14.8,0.2,5,,-0.43,17
+Cornwall Community Hospital,cornwall community hospital,East Region,34.2,19.1,28.9,23.6,-15.1,-5.3,,-0.82,11
+Guelph General Hospital Corporation,guelph general hospital corporation,West Region,39.9,27.8,17.2,13.2,-12.1,-4,,-0.27,20
+Halton Healthcare Services,halton healthcare services,Central Region,52.3,31.1,7.1,10.5,-21.2,3.4,Improver,0.67,34
+Hamilton Health Sciences,hamilton health sciences,West Region,45.5,38.6,17.8,14.6,-6.9,-3.2,,-0.45,16
+Health Sciences North Corporation,health sciences north corporation,North East Region,44.4,41.1,22.4,19.8,-3.3,-2.6,,0.47,32
+Humber River Health,humber river health,Toronto Region,25.6,23,18.2,19.3,-2.6,1.1,,-2.1,1
+Huron Perth Healthcare Alliance,huron perth healthcare alliance,West Region,13.4,13.1,19,19.7,-0.3,0.7,,-1.44,3
+Hôpital Montfort Corporation,hôpital montfort corporation,East Region,25.7,26.5,23.9,31.3,0.8,7.4,,-0.32,18
+Joseph Brant Hospital Corporation,joseph brant hospital corporation,West Region,24.6,30.4,7.8,5,5.8,-2.8,Decliner,-0.86,9
+Kingston Health Sciences Centre,kingston health sciences centre,East Region,40.9,31.8,14.1,12.2,-9.1,-1.9,,-0.01,26
+Lakeridge Health,lakeridge health,East Region,66.2,43.5,19.2,5,-22.7,-14.2,,1.59,43
+London Health Sciences Centre,london health sciences centre,West Region,36.8,26.6,8.8,10,-10.2,1.2,Improver,-0.85,10
+Mackenzie Health,mackenzie health,Central Region,49.5,43.8,19,15.1,-5.7,-3.9,,0.4,31
+Michael Garron Hospital Corporation,michael garron hospital corporation,Toronto Region,30.8,30,7.7,9.7,-0.8,2,,-0.64,14
+Muskoka Algonquin Healthcare,muskoka algonquin healthcare,Central Region,32.9,32.3,32.7,26.8,-0.6,-5.9,,0.81,36
+Niagara Health System,niagara health system,West Region,70.8,67.6,14.7,11,-3.2,-3.7,,2.24,45
+North Bay Regional Health Centre,north bay regional health centre,North East Region,27.3,28.1,31.9,27,0.8,-4.9,,0.93,39
+North York General Hospital,north york general hospital,Toronto Region,39,28.9,24,27.8,-10.1,3.8,Improver,-1.08,6
+Northumberland Hills Hospital,northumberland hills hospital,East Region,43.3,38,27.1,15,-5.3,-12.1,,0.19,30
+Oak Valley Health,oak valley health,Central Region,38.7,41.5,20.6,23.2,2.8,2.6,,-0.01,25
+Orillia Soldiers’ Memorial Hospital Corporation,orillia soldiers' memorial hospital corporation,Central Region,27.3,25.5,21.7,26.8,-1.8,5.1,,-0.22,21
+Queensway Carleton Hospital Corporation,queensway carleton hospital corporation,East Region,45.3,30.5,32.1,29.6,-14.8,-2.5,,-0.21,22
+Quinte Health,quinte health,East Region,29.8,33.5,21.6,23.7,3.7,2.1,,-0.31,19
+Ross Memorial Hospital,ross memorial hospital,East Region,52.7,34.7,4,2.4,-18,-1.6,,2.33,46
+Royal Victoria Regional Health Centre Corporation,royal victoria regional health centre corporation,Central Region,35.9,29.1,33.5,27.4,-6.8,-6.1,,-1.09,5
+Sault Area Hospital,sault area hospital,North East Region,41.3,56,28,32,14.7,4,,1.01,40
+Scarborough Health Network,scarborough health network,Toronto Region,37.9,34,21.2,23.3,-3.9,2.1,,-0.78,12
+Sinai Health System,sinai health system,Toronto Region,42.6,44.1,6.9,9.3,1.5,2.4,,1.13,41
+Southlake Health Corporation,southlake health corporation,Central Region,42.4,49.5,26.1,27.3,7.1,1.2,,-0.01,27
+St. Joseph’s Healthcare Hamilton,st. joseph's healthcare hamilton,West Region,42.7,30.1,25.9,23.6,-12.6,-2.3,,-0.08,23
+St. Thomas Elgin General Hospital,st. thomas elgin general hospital,West Region,8.1,8.2,12,12.1,0.1,0.1,,-1.43,4
+Sunnybrook Health Sciences Centre,sunnybrook health sciences centre,Toronto Region,53.4,40.7,20.4,18.5,-12.7,-1.9,,0.69,35
+The Ottawa Hospital,the ottawa hospital,East Region,42.4,45.2,20.4,15.6,2.8,-4.8,,-0.64,15
+Thunder Bay Regional Health Sciences Centre,thunder bay regional health sciences centre,North West Region,43.1,31.8,23.6,20.3,-11.3,-3.3,,-0.08,24
+Trillium Health Partners,trillium health partners,Central Region,67.4,62.6,14.3,16.9,-4.8,2.6,,1.43,42
+Unity Health Toronto,unity health toronto,Toronto Region,53.1,44.6,17.7,19.2,-8.5,1.5,Improver,0.09,29
+University Health Network,university health network,Toronto Region,43.8,31.4,8.7,5.4,-12.4,-3.3,,0.04,28
+Waterloo Regional Health Network,waterloo regional health network,West Region,31.9,32.1,20.2,7,0.2,-13.2,,-1.01,7
+William Osler Health System,william osler health system,Central Region,57.4,55.8,15.2,12,-1.6,-3.2,,0.84,37
+Windsor Regional Hospital,windsor regional hospital,West Region,34.2,30.3,7.9,6.6,-3.9,-1.3,,-0.7,13
+Woodstock Hospital,woodstock hospital,West Region,11.3,16.2,15.4,19,4.9,3.6,,-1.46,2
